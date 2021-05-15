@@ -1,3 +1,16 @@
 # Animation_de_image
 
-en la index esta todo el codigo en html, css, javascript.
+ESTE PROYECTO FUE CREADO POR CURIOSIDAD. 
+
+
+AQUÍ LOGRE QUE LAS IMAGENES SE COMVIRTIERAN EN PIXELES CON MOVIMIENTO CON TAN SOLO PASAR EL CURSOR.
+
+
+Los lenguajes que utilize son HTML, CSS, JAVASCRIPT Y JQUERY.
+
+
+
+
+
+CARGA IMAGENES:
+
